@@ -1,2 +1,2 @@
-01:57:13.518 [TestNG-tests-2] INFO  resources.base - navigate to login
-01:57:13.988 [TestNG-tests-2] INFO  resources.base - sent keys to loginpage
+22:07:43.924 [main] DEBUG io.netty.util.internal.ThreadLocalRandom - -Dio.netty.initialSeedUniquifier: 0x324021e3e9ce7b04
+22:07:45.530 [main] INFO  resources.base - Nav to HomePage

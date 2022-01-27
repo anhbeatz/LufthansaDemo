@@ -1,7 +1,5 @@
-01:56:37.206 [TestNG-tests-4] INFO  resources.base - Nav to HomePage
-01:56:38.582 [TestNG-tests-5] INFO  resources.base - Nav to HomePage
-01:56:43.287 [TestNG-tests-1] INFO  resources.base - navbar is displayed
-01:56:53.211 [TestNG-tests-2] INFO  resources.base - Nav to HomePage
-01:56:59.946 [TestNG-tests-2] INFO  resources.base - navigate to login
-01:57:00.415 [TestNG-tests-2] INFO  resources.base - sent keys to loginpage
-01:57:07.785 [TestNG-tests-2] INFO  resources.base - Nav to HomePage
+22:07:42.381 [AsyncHttpClient-1-2] DEBUG io.netty.util.Recycler - -Dio.netty.recycler.maxSharedCapacityFactor: 2
+22:07:42.385 [AsyncHttpClient-1-2] DEBUG io.netty.util.Recycler - -Dio.netty.recycler.linkCapacity: 16
+22:07:42.386 [AsyncHttpClient-1-2] DEBUG io.netty.util.Recycler - -Dio.netty.recycler.ratio: 8
+22:07:42.386 [AsyncHttpClient-1-2] DEBUG io.netty.util.Recycler - -Dio.netty.recycler.delayedQueue.ratio: 8
+22:07:43.675 [AsyncHttpClient-1-2] DEBUG io.netty.handler.codec.compression.Brotli - brotli4j not in the classpath; Brotli support will be unavailable.
