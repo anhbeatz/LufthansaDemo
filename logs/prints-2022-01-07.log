@@ -1,0 +1,7 @@
+22:32:51.732 [TestNG-tests-3] INFO  resources.base - navigate to homepage
+22:32:53.369 [TestNG-tests-2] INFO  resources.base - navigate to login
+22:32:54.176 [TestNG-tests-2] INFO  resources.base - sended keys to loginpage
+22:32:54.952 [TestNG-tests-2] INFO  resources.base - driverclosed
+22:32:59.603 [TestNG-tests-2] INFO  resources.base - Nav to HomePage
+22:33:00.895 [TestNG-tests-2] INFO  resources.base - navigate to login
+22:33:01.365 [TestNG-tests-2] INFO  resources.base - sended keys to loginpage

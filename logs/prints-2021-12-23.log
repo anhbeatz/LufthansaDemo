@@ -1,0 +1,7 @@
+00:06:11.342 [TestNG-tests-1] INFO  resources.base - navbar is displayed
+00:06:12.663 [TestNG-tests-2] INFO  resources.base - navigate to login
+00:06:13.117 [TestNG-tests-2] INFO  resources.base - sended keys to loginpage
+00:06:13.694 [TestNG-tests-2] INFO  resources.base - driverclosed
+00:06:20.091 [TestNG-tests-2] INFO  resources.base - Nav to HomePage
+00:06:21.346 [TestNG-tests-2] INFO  resources.base - navigate to login
+00:06:21.711 [TestNG-tests-2] INFO  resources.base - sended keys to loginpage

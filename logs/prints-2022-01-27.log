@@ -1,0 +1,7 @@
+01:56:37.206 [TestNG-tests-4] INFO  resources.base - Nav to HomePage
+01:56:38.582 [TestNG-tests-5] INFO  resources.base - Nav to HomePage
+01:56:43.287 [TestNG-tests-1] INFO  resources.base - navbar is displayed
+01:56:53.211 [TestNG-tests-2] INFO  resources.base - Nav to HomePage
+01:56:59.946 [TestNG-tests-2] INFO  resources.base - navigate to login
+01:57:00.415 [TestNG-tests-2] INFO  resources.base - sent keys to loginpage
+01:57:07.785 [TestNG-tests-2] INFO  resources.base - Nav to HomePage
