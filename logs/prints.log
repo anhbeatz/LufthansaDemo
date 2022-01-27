@@ -1,2 +1,2 @@
-22:07:43.924 [main] DEBUG io.netty.util.internal.ThreadLocalRandom - -Dio.netty.initialSeedUniquifier: 0x324021e3e9ce7b04
-22:07:45.530 [main] INFO  resources.base - Nav to HomePage
+00:02:07.489 [main] DEBUG io.netty.util.internal.ThreadLocalRandom - -Dio.netty.initialSeedUniquifier: 0xae88cac0072f11dc
+00:02:09.249 [main] INFO  resources.base - Nav to HomePage
