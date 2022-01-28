@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d68721bc-e463-46a7-9664-c9e6e033cd36" name="Changes" comment="Commit">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/prints-2022-01-27.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/prints-2022-01-27.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/prints.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/prints.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Tests/FileUpload.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Tests/FileUpload.class" afterDir="false" />
-    </list>
+    <list default="true" id="d68721bc-e463-46a7-9664-c9e6e033cd36" name="Changes" comment="Commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,7 +35,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/resources" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.CommitDialog" />
   </component>
   <component name="RecentsManager">
@@ -49,10 +43,11 @@
       <recent name="C:\Users\ANH B eatz\eclipse-workspace\LufthansaDemo\src\main\java\resources" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ANH B eatz\GitHub\src\main\java\resources" />
       <recent name="C:\Users\ANH B eatz\eclipse-workspace\LufthansaDemo\src\main\java\resources" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.FileUpload.FileUploadTest">
+  <component name="RunManager" selected="TestNG.FileUpload">
     <configuration name="C:/Users/ANH B eatz/eclipse-workspace/LufthansaDemo/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="LufthansaDemo" />
       <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
@@ -134,11 +129,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.FileUpload.FileUploadTest" />
-        <item itemvalue="TestNG.FileUpload (1)" />
         <item itemvalue="TestNG.FileUpload" />
         <item itemvalue="TestNG.C:/Users/ANH B eatz/eclipse-workspace/LufthansaDemo/testng.xml" />
         <item itemvalue="TestNG.TableCount" />
+        <item itemvalue="TestNG.FileUpload.FileUploadTest" />
+        <item itemvalue="TestNG.FileUpload (1)" />
       </list>
     </recent_temporary>
   </component>

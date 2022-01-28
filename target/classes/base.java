@@ -6,6 +6,8 @@ import org.openqa.selenium.TakesScreenshot;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
+import org.openqa.selenium.firefox.FirefoxDriver;
+import org.openqa.selenium.firefox.FirefoxOptions;
 
 import java.io.File;
 import java.io.FileInputStream;
@@ -22,22 +24,27 @@ public class base {
     public WebDriver initializeDriver() throws IOException {
         String path = System.getProperty("user.dir") + "\\src\\main\\java\\resources\\chromedriver.exe";
         String path2 = System.getProperty("user.dir") + "\\src\\main\\java\\resources\\data.properties";
+        String path3 = System.getProperty("user.dir") + "\\src\\main\\java\\resources\\geckodriver.exe";
         prop = new Properties();
 
         FileInputStream fis = new FileInputStream(path2);
         prop.load(fis);
 
         String browserName = prop.getProperty("browser");
-        if (browserName.equals("Chrome")) {
+        if (browserName.equalsIgnoreCase("Chrome")) {
             System.setProperty("webdriver.chrome.driver", path);
             ChromeOptions options = new ChromeOptions();
             //options.addArguments("headless");
             driver = new ChromeDriver(options);
 
-        } else if (browserName.equals("firefox")) {
+        } else if (browserName.equalsIgnoreCase("firefox")) {
+            System.setProperty("webdriver.gecko.driver", path3);
+            FirefoxOptions options = new FirefoxOptions();
+
+            driver= new FirefoxDriver(options);
 
 
-        } else if (browserName.equals("IE")) {
+        } else if (browserName.equalsIgnoreCase("IE")) {
 
         }
 
